@@ -1,6 +1,6 @@
 # Protótipo LLM
 
-(Acessar o [Jupyter Notebook](/Protótipo_LLM.ipynb))
+(Acessar o [Jupyter Notebook](/Protótipo_LLM.ipynb) ou [PDF da Pesquisa](/PesquisaTutorMundi.pdf))
 
 Protótipo criado para processo seletivo TutorMundi.
 
